@@ -1,6 +1,7 @@
 # calculator_application
 
-A new Flutter project.
+Simple calculator application that helped me to use more ui widgets in flutter
+![calcc](https://github.com/arshiaasatvati/calculator_application/assets/138293483/0ef094de-dca9-422a-a83f-cd5acec75f16)
 
 ## Getting Started
 
